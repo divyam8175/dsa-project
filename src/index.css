@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+main {
+  min-height: calc(100vh - 70px) !important;
+  margin: 0;
+  padding: 0;
+}
+
+label {
+  color: white;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.main-bg {
+  background-color: #0c6170 !important;
+}
+
+.main-color {
+  color: #0c6170;
+}
