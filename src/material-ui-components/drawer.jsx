@@ -167,7 +167,7 @@ export default function DrawerLeft() {
             <MenuIcon />
           </IconButton>
           <Typography variant="h6" noWrap>
-            DatAlgo - A tool to Visualize Data Structure & Algorithm
+          Prepify - A tool to Visualize Data Structure & Algorithm
           </Typography>
         </Toolbar>
       </AppBar>

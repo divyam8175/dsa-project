@@ -18,8 +18,8 @@ const HomeTopComp = () => {
               </div>
               <div className="col">
                 <h1 className="text-left">
-                  <b style={{ color: "#0A4158" }}>Dat</b>
-                  <b style={{ color: "#4B8378" }}>Algo</b>
+                  < style={{ color: "#0A4158" }}>Prepify</>
+                  {/* <b style={{ color: "#4B8378" }}>Algo</b> */}
                 </h1>
               </div>
             </div>
